@@ -1,7 +1,7 @@
 # personal-website
  https://thadevoosm.github.io/personal-website/
 # 💫 About Me:
-I' currently learning React.js<br>could able to collaborate<br>interested in UI/UX<br>code the design I create?<br><br><br>"Hard work is worthless for those that don't believe in themselves"<br>-Naruto Uzumaki
+Expertise in React.js<br>could able to collaborate<br>interested in UI/UX<br>code the design I create?<br><br><br>"Hard work is worthless for those that don't believe in themselves"<br>-Naruto Uzumaki
 
 
 ## 🌐 Socials:
